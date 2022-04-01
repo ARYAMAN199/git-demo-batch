@@ -2,3 +2,4 @@ new file
 for testing
 Various commands in git.
 And do various operations.
+And this file is used to test the gitignore.
